@@ -50,6 +50,7 @@
 
 	<div class="element">
 		<h2>
+<<<<<<< HEAD
 			Article de Matthieu !!
 		</h2>
 		<p>
@@ -59,6 +60,14 @@
 			Dans les eaux tropicales de la Grande Barrière de corail, un poisson-clown du nom de Marin mène une existence paisible avec son fils unique, Nemo. Redoutant l'océan et ses risques imprévisibles, il fait de son mieux pour protéger son fils. Comme tous les petits poissons de son âge, celui-ci rêve pourtant d'explorer les mystérieux récifs. Lorsque Nemo disparaît, Marin devient malgré lui le héros d'une quête unique et palpitante. Le pauvre papa ignore que son rejeton à écailles a été emmené jusque dans l'aquarium d'un dentiste. Marin ne s'engagera pas seul dans l'aventure : la jolie Dory, un poisson-chirurgien bleu à la mémoire défaillante et au grand coeur, va se révéler d'une aide précieuse. Les deux poissons vont affronter d'innombrables dangers, mais l'optimisme de Dory va pousser Marin à surmonter toutes ses peurs. 
 		</p>
 		<h3>Source : <a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=29057.html">Allociné</a>
+=======
+			Article 2 Matthieu!!
+		</h2>
+		<p>
+			Ton article ici !
+		</p>
+		<h3>Source : <a href="#">blabla</a>
+>>>>>>> 123e75fcdd429416e76b7c670777246b3087b7b0
 		</h3>
 	</div>
 	<div class="element">
@@ -66,6 +75,7 @@
 			Article 3 Estelle!!
 		</h2>
 		<p>
+<<<<<<< HEAD
 			<b>Là-haut de Docter Pete.</b><br>
 Là-haut ou Up en anglais est sorti le 29 juillet 2009 et dure 1h35min. Ce film pour enfants est le dixième long-métrage d'animation des studios Pixar, il est une réussite incontestable et le fruit d’un travail collectif. Il a été réalisé par Docter Pete (réalisateur, scénariste, producteur et acteur américain), a comme acteurs Edward Asner ainsi que Jordan Nagai et nous avons également la présence de « voix cultes » comme Christopher Plummer dans le rôle du méchant Muntz, en attendant Charles Aznavour en Carl Fredricksen dans la version française.
 <br>
@@ -83,6 +93,9 @@ Mais on est surtout frappés par le montage, vif, allusif, produisant des images
 http://www.avoir-alire.com/la-haut-la-critique
 Wikipédia.org
 Première.fr
+=======
+			Ton article ici !
+>>>>>>> 123e75fcdd429416e76b7c670777246b3087b7b0
 		</p>
 		<h3>Source : <a href="#">blabla</a>
 		</h3>
