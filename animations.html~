@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//FR"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>Comparatif</title>
+	
+	<link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+</head>
+<body>
+<div id="container">
+	<div id="header">
+		<h1>
+			Site name
+		</h1>
+	</div>
+<!--	<div id="navigation">
+		<ul>
+			<li><a href="#">Home</a></li>
+			<li><a href="#">About</a></li>
+			<li><a href="#">Services</a></li>
+			<li><a href="#">Contact us</a></li>
+		</ul>
+	</div>
+-->
+	<div id="edito">
+		<h2>
+			Edito
+		</h2>
+		<p>
+			Lorem ipsum dolor sit amet consect etuer adipi scing elit sed diam nonummy nibh euismod tinunt ut laoreet dolore magna aliquam erat volut. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+		</p>
+		<p>
+			Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+		</p>
+		
+	</div>
+	
+	<div class="element">
+		<h2>
+			Article 1 Alexandre.l!!
+		</h2>
+		<img src="http://extranet.update24.lu/img/movies/monstersinc2001/poster.jpg" alt="Metcie">
+		<p>
+			Monstropolis est une petite ville peuplée de monstres dont la principale source d'énergie provient des cris des enfants. Monstres & Cie est la plus grande usine de traitement de cris de la ville. Grâce au nombre impressionnant de portes de placards dont dispose l'usine, une équipe de monstres d'élite pénètre dans le monde des humains pour terrifier durant la nuit les enfants et récolter leurs hurlements. Le Terreur d'élite le plus réputé de Monstres & Cie s'appelle Jacques Sullivent, alias Sulli. C'est un monstre cornu de 2m40 de haut à la fourrure bleu-vert tachetée de violet. Une nuit, alors qu'il se trouve à l'"Etage de la Terreur", il s'aperçoit qu'une porte de placard n'a pas été fermée correctement. Pour vérifier que tout est en place, il l'ouvre, permettant sans le vouloir à Bouh, une petite fille, de pénétrer dans son monde. 
+		</p>
+		<h3>Source : <a href="#">blabla</a>
+		</h3>
+	</div>
+
+	<div class="element">
+		<h2>
+			Article 2 Matthieu!!
+		</h2>
+		<p>
+			Ton article ici !
+		</p>
+		<h3>Source : <a href="#">blabla</a>
+		</h3>
+	</div>
+	<div class="element">
+		<h2>
+			Article 3 Estelle!!
+		</h2>
+		<p>
+			Ton article ici !
+		</p>
+		<h3>Source : <a href="#">blabla</a>
+		</h3>
+	</div>
+
+		
+	
+	<div class="element">
+		<h2>
+			Article 4 Lea!!
+		</h2>
+		<p>
+			Ton article ici !
+		</p>
+		<h3>Source : <a href="#">blabla</a>
+		</h3>
+	</div>
+
+	<div class="element">
+		<h2>
+			Article 5 Aude!!
+		</h2>
+		<p>
+			Ton article ici !
+		</p>
+		<h3>Source : <a href="#">blabla</a>
+		</h3>
+	</div>
+	<div class="element">
+		<h2>
+			Article 6 Florian Leja!!
+		</h2>
+		<p>
+			Ton article ici !
+		</p>
+		<h3>Source : <a href="#">blabla</a>
+		</h3>
+	</div>
+
+
+	<div id="footer">
+		Copyright © Site name, 20XX
+	</div>
+</div>
+</body>
+</html>
